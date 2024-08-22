@@ -4,7 +4,7 @@
 
 🎓 I am Koko, a **Front and Back End Web Developer** specializing in **React Applications**.
 
-👨‍💻 I have been programming since 2019 and continued to develop my skills since then. I'm currently a freelancer looking for web-related work/projects to contribute to.
+👨‍💻 I have been programming since 2019 and continued to develop my skills since then. My most recent API-related project has finally been released, feel free to check it out [here](https://github.com/kokobus122/SBAutoReview).
 
 ## 🛠️ Skills
 
